@@ -23,11 +23,10 @@
 对于每个测试实例，请输出发生这种情况的百分比，每个实例的输出占一行, 结果保留两位小数(四舍五入)<br>
 
 <h2>解决方法：</h2><br>
-	<center><img src="http://www.llss.fun/wp/wp-content/uploads/2017/10/logo1710.jpg"/><br></center>
+	<center><img src="https://github.com/shadowswords/Room/raw/master/2017-12-18_155634.png"/><br></center>
 <h2>运行结果：</h2><br>
-	<center><img src="2017-12-18_162349.png"/><br></center>
-<h2>C程序代码----<a href="https://github.com/shadowswords/Room/blob/master/%E4%BB%A3%E7%A0%81.txt"download="">文件下载</a></h2><br>
-
+	<center><img src="https://github.com/shadowswords/Room/raw/master/2017-12-18_162349.png"/><br></center>
+<h2>C程序代码----<a href="https://github.com/shadowswords/Room/blob/master/%E4%BB%A3%E7%A0%81.txt">代码预览</a></h2><br>
 	
 </body>
 </html>
