@@ -23,7 +23,7 @@
 对于每个测试实例，请输出发生这种情况的百分比，每个实例的输出占一行, 结果保留两位小数(四舍五入)<br>
 
 <h2>解决方法：</h2><br>
-	<center><img src="2017-12-18_155634.png"/><br></center>
+	<center><img src="http://www.llss.fun/wp/wp-content/uploads/2017/10/logo1710.jpg"/><br></center>
 <h2>运行结果：</h2><br>
 	<center><img src="2017-12-18_162349.png"/><br></center>
 <h2>C程序代码----<a href="代码.txt">文件下载</a></h2><br>
